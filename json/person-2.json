@@ -1,0 +1,18 @@
+
+
+
+[
+  {
+  	"name":"alferdo",
+  	"age":"40",
+  	"favColor":"white",
+  	"favCar":"fiat"
+  },
+  {
+  	"name":"omar",
+  	"favColor":"yellow",
+  	"favCar":"limbo",
+  	"age":"18"
+  },
+  "this is just for testing "
+]
