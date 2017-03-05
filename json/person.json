@@ -18,7 +18,14 @@
    "name": "samir",
    "age" : "18" , 
    "favCar": "new binz",
-   "facColor": "darkBlack" }
- ]
+   "facColor": "darkBlack" 
+  },
+  {
+   "name":"Dono",
+   "age":"19",
+   "favCar" : "linmbo",
+   "favColor":"blue" 
+  }
+]
 
 
