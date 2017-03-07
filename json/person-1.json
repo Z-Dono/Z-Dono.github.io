@@ -6,13 +6,13 @@
    "name": "jack",
    "age":"12",
    "favCar": "ford",
-   "favColor": "black"
+   "favColor": ["black","red"]
   },
   {
    "name": "rebika",
    "age" : "16" ,
    "favCar": "fiat",
-   "favColor": "rose" 
+   "favColor": ["rose","black"] 
   },
   {
    "name": "samir",
@@ -24,7 +24,7 @@
    "name":"Dono",
    "age":"19",
    "favCar" : "linmbo",
-   "favColor":"blue" 
+   "favColor":["blue","dark"] 
   }
 ]
 
