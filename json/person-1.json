@@ -18,7 +18,7 @@
    "name": "samir",
    "age" : "18" , 
    "favCar": "new binz",
-   "favColor": "darkBlack" 
+   "favColor": ["darkBlack"] 
   },
   {
    "name":"Dono",
