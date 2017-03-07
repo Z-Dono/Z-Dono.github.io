@@ -5,12 +5,12 @@
   {
   	"name":"alferdo",
   	"age":"40",
-  	"favColor":"white",
+  	"favColor":["white"],
   	"favCar":"fiat"
   },
   {
   	"name":"omar",
-  	"favColor":"yellow",
+  	"favColor":["yellow"],
   	"favCar":"limbo",
   	"age":"18"
   }
