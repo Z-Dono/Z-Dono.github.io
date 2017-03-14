@@ -1,3 +1,5 @@
-<h1> ajax data </h1>
-<p> this is an ajax data </p>
+
+
+<h1 id= "ajax-h1 " > ajax data </h1>
+<p id = "ajax-p"> this is an ajax data </p>
 
